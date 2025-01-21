@@ -1,6 +1,6 @@
 # Project Description
-## The website is designed to deliver an engaging user experience across desktop and mobile devices, showcasing the product with a sleek layout and dynamic background visuals. This website write with Javascript and css.
-## The project is a single-page application built using React. Its responsive design adapts seamlessly to any screen size, offering an optimal viewing experience on both desktop and mobile devices.
+## The website is designed to deliver an engaging user experience across desktop and mobile devices, showcasing the product with a sleek layout and dynamic background visuals.
+## The project is a single-page application built using React, Javascript and css. Its responsive design adapts seamlessly to any screen size, offering an optimal viewing experience on both desktop and mobile devices.
 
 # Desktop view:
 ![image alt](https://github.com/Atefeh-Behroozi/frontend-test/blob/081e804c81e7da57d996a8882882297ef0c001e8/desktop%20view.png)
